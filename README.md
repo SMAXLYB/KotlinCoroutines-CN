@@ -1,5 +1,5 @@
 # KotlinCoroutine-CN
-Marcin Moskała著作[《KotlinCoroutine》](https://leanpub.com/coroutines/#happiness-guarantee)中文版，正在翻译中.....
+Marcin Moskała著作[《KotlinCoroutine》](https://leanpub.com/coroutines/#happiness-guarantee)中文版，正在学习协程并努力翻译中.....懂英文的小伙伴建议直接阅读原版！
 ## 目录
 ### 第一章：理解Kotlin协程（Part 1: Understanding Kotlin Coroutines）
  - 为什么是Kotlin协程？(Why Kotlin Coroutines?）
