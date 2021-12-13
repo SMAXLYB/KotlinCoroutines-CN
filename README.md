@@ -1,11 +1,11 @@
 # KotlinCoroutine-CN
-Marcin Moskała著作[《KotlinCoroutine》](https://leanpub.com/coroutines/#happiness-guarantee)中文版，正在学习协程并努力翻译中.....懂英文的小伙伴建议直接阅读原版！
+Marcin Moskała著作[《KotlinCoroutine》](https://leanpub.com/coroutines/#happiness-guarantee)中文版，正在学习协程并努力翻译中.....蓝色可点击链接表示已经翻译，否则就是没有翻译，懂英文的小伙伴建议直接阅读原版！
 ## 目录
 ### 第一章：理解Kotlin协程（Part 1: Understanding Kotlin Coroutines）
  - 为什么是Kotlin协程？(Why Kotlin Coroutines?）
  - 序列构造器（Sequence builder）
  - 挂起是如何工作的？（How does suspension work?）
- - 协程原理（Coroutines under the hood）
+ - [协程原理](https://github.com/SMAXLYB/KotlinCoroutine-CN/blob/main/%E5%8D%8F%E7%A8%8B%E5%8E%9F%E7%90%86.md)（Coroutines under the hood）
  - 协程内置库（Coroutines built-in support vs library）
 ### 第二章：Kotlin协程库（Part 2: Kotlin Coroutines library）
  - 协程构建器（Coroutine builders）
