@@ -3,7 +3,7 @@ Marcin Moskała著作[《KotlinCoroutines》](https://leanpub.com/coroutines/#ha
 ## 目录
 ### 第一章：理解Kotlin协程（Part 1: Understanding Kotlin Coroutines）
 &emsp;&emsp;在开始Kotlin协程库的冒险之前，我们先要探究一下为什么需要协程，以及挂起是如何工作的。我们将一步步探究协程的基础特性，并在探究的过程中学习一些有用的知识点和技能。
- - 1.1 为什么需要Kotlin协程？(Why Kotlin Coroutines?）
+ - [1.1 为什么需要Kotlin协程？(Why Kotlin Coroutines?）](https://github.com/SMAXLYB/KotlinCoroutines-CN/blob/main/1.1%20%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81Kotlin%E5%8D%8F%E7%A8%8B.md)
  - 1.2 序列构造器（Sequence builder）
  - 1.3 挂起是如何工作的？（How does suspension work?）
  - [1.4 协程原理（Coroutines under the hood）](https://github.com/SMAXLYB/KotlinCoroutine-CN/blob/main/%E5%8D%8F%E7%A8%8B%E5%8E%9F%E7%90%86.md)
