@@ -1,5 +1,5 @@
 # KotlinCoroutines-CN
-Marcin Moskała著作[《KotlinCoroutines》](https://leanpub.com/coroutines/#happiness-guarantee)中文版，正在学习协程并努力翻译中.....蓝色可点击链接表示已经翻译，否则就是没有翻译，懂英文的小伙伴建议直接阅读原版！
+&emsp;&emsp;Marcin Moskała著作[《KotlinCoroutines》](https://leanpub.com/coroutines/#happiness-guarantee)中文版，正在学习协程并努力翻译中.....蓝色可点击链接表示已经翻译，否则就是没有翻译，懂英文的小伙伴建议直接阅读原版！
 ## 目录
 ### 第一章：理解Kotlin协程（Part 1: Understanding Kotlin Coroutines）
 &emsp;&emsp;在开始Kotlin协程库的冒险之前，我们先要探究一下为什么需要协程，以及挂起是如何工作的。我们将一步步探究协程的基础特性，并在探究的过程中学习一些有用的知识点和技能。
