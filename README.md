@@ -4,7 +4,7 @@
 ### 第一章：理解Kotlin协程（Part 1: Understanding Kotlin Coroutines）
 &emsp;&emsp;在开始Kotlin协程库的冒险之前，我们先要探究一下为什么需要协程，以及挂起是如何工作的。我们将一步步探究协程的基础特性，并在探究的过程中学习一些有用的知识点和技能。
  - [1.1 为什么需要Kotlin协程？(Why Kotlin Coroutines?）](https://github.com/SMAXLYB/KotlinCoroutines-CN/blob/main/1.1%20%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81Kotlin%E5%8D%8F%E7%A8%8B.md)
- - [1.2 序列构造器（Sequence builder）](https://github.com/SMAXLYB/KotlinCoroutines-CN/blob/main/1.2%20%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E5%99%A8.md)
+ - [1.2 序列生成器（Sequence builder）](https://github.com/SMAXLYB/KotlinCoroutines-CN/blob/main/1.2%20%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E5%99%A8.md)
  - 1.3 挂起是如何工作的？（How does suspension work?）
  - [1.4 协程原理（Coroutines under the hood）](https://github.com/SMAXLYB/KotlinCoroutines-CN/blob/main/1.4%20%E5%8D%8F%E7%A8%8B%E5%8E%9F%E7%90%86.md)
  - 1.5 协程内置库（Coroutines built-in support vs library）
